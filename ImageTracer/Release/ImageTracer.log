@@ -1,0 +1,36 @@
+﻿  stdafx.cpp
+  Bitmap.cpp
+  doOffset.cpp
+c:\users\wtnbks\desktop\development\project\imagetracer\imagetracer\dooffset.cpp(189): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\wtnbks\desktop\development\project\imagetracer\imagetracer\dooffset.cpp(193): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\wtnbks\desktop\development\project\imagetracer\imagetracer\dooffset.cpp(224): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\wtnbks\desktop\development\project\imagetracer\imagetracer\dooffset.cpp(246): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\wtnbks\desktop\development\project\imagetracer\imagetracer\dooffset.cpp(291): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\wtnbks\desktop\development\project\imagetracer\imagetracer\dooffset.cpp(298): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  drawPath.cpp
+c:\users\wtnbks\desktop\development\project\imagetracer\imagetracer\drawpath.cpp(90): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\wtnbks\desktop\development\project\imagetracer\imagetracer\drawpath.cpp(97): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\wtnbks\desktop\development\project\imagetracer\imagetracer\drawpath.cpp(130): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\wtnbks\desktop\development\project\imagetracer\imagetracer\drawpath.cpp(137): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  exportGCODE.cpp
+  ImageTracer.cpp
+  mainController.cpp
+  mainController_GUI.cpp
+  MakeBinaryArray.cpp
+  Potrace.cpp
+  clipper.cpp
+  self_auxiliary.cpp
+  self_bitmap.cpp
+  self_decompose.cpp
+  self_progress.cpp
+  curve.c
+  decompose.c
+  lzw.c
+  potracelib.c
+  trace.c
+  コード生成しています。
+  1314 of 1318 functions (99.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  ImageTracer.vcxproj -> C:\Users\wtnbks\Desktop\development\PROJECT\ImageTracer\Release\ImageTracer.exe

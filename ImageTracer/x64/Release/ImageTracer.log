@@ -1,0 +1,16 @@
+﻿2015/09/08 13:39:29 にビルドを開始しました。
+ノード 2 上のプロジェクト "\\psf\Dropbox\Data\仕事用\ライブラリWin\VC_Project\ImageTracer\ImageTracer\ImageTracer.vcxproj" (Build ターゲット)。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\ImageTracer.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt Potrace.cpp
+  Potrace.cpp
+Potrace.cpp(4): error C2143: 構文エラー : ')' が ',' の前にありません。
+Potrace.cpp(4): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+Potrace.cpp(4): error C2059: 構文エラー : '文字列'
+Potrace.cpp(4): error C2059: 構文エラー : ')'
+Potrace.cpp(7): error C2143: 構文エラー : ';' が '{' の前にありません。
+Potrace.cpp(7): error C2447: '{' : 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+プロジェクト "\\psf\Dropbox\Data\仕事用\ライブラリWin\VC_Project\ImageTracer\ImageTracer\ImageTracer.vcxproj" (Build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:01.60

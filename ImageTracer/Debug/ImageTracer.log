@@ -1,0 +1,9 @@
+﻿  self_auxiliary.cpp
+c:\users\wtnbks\dropbox\data\プログラミング\win\imagetracer\imagetracer\self_auxiliary.cpp(26): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  self_bitmap.cpp
+c:\users\wtnbks\dropbox\data\プログラミング\win\imagetracer\imagetracer\self_bitmap.cpp(66): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  self_decompose.cpp
+c:\users\wtnbks\dropbox\data\プログラミング\win\imagetracer\imagetracer\self_decompose.cpp(27): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  self_progress.cpp
+c:\users\wtnbks\dropbox\data\プログラミング\win\imagetracer\imagetracer\self_progress.cpp(49): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+  コードを生成中...
